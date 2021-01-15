@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    font-size: 50px;
+}  
+h2{
+    color: violet;
+}
+img{
+    width: %;
+}
+#rong{
+    color: orange;
+}
+.h{
+    color: rgb(218, 50, 78);
+    background-color: rebeccapurple;
+    width: 75%;
+}
